@@ -122,7 +122,7 @@ plot_bvd(experiment.results_object)
 plt.show()
 ```
 
-![image](experiment_notebooks/images/minimal_example.png)
+![image](example_notebooks/images/minimal_example.png)
 
 ## Example 3: Using Decomposition Objects
 
