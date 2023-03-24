@@ -59,6 +59,8 @@ Alternatively the following can be used in conda environments
 python setup.py develop
 ```
 
+## Related Paper
+
 This library is related to the following paper, whose experiments are reproducible from `experiment_notebooks`:
 
 ```
