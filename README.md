@@ -59,6 +59,19 @@ Alternatively the following can be used in conda environments
 python setup.py develop
 ```
 
+This library is related to the following paper, whose experiments are reproducible from `experiment_notebooks`:
+
+```
+@article{wood2023unified,
+  title={A Unified Theory of Diversity in Ensemble Learning},
+  author={Wood, Danny and Mu, Tingting and Webb, Andrew and Reeve, Henry and Lujan, Mikel and Brown, Gavin},
+  journal={arXiv preprint arXiv:2301.03962},
+  year={2023}
+}
+```
+The paper can be found [here](https://arxiv.org/abs/2301.03962).
+
+
 ## Minimal Working Examples
 
 We present some simple examples of usage of the library. A runnable version this code
