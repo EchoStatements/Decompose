@@ -6,11 +6,11 @@ if __name__ == '__main__':
     setup(
         name='decompose',
         version='0.1.0',
-        author='Andrew M. Webb & Danny Wood',
-        author_email='andrew@awebb.info',
+        author='Danny Wood & Andrew M. Webb',
+        author_email='danny.wood@manchester.ac.uk',
         packages=['decompose'],
         license='MIT License',
-        description='A package for decomposing log-likelihood errors',
+        description='A package for decomposing Bregman divergences and other losses',
         python_requires='>=3.4.3',
         install_requires=[
             "numpy >= 1.11.3",
